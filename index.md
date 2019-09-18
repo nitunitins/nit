@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem vindo ao NIT/UNITINS
 
 You can use the [editor on GitHub](https://github.com/nitunitins/nitpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
