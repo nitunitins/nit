@@ -1,5 +1,9 @@
 ## Bem vindo ao NIT/UNITINS
 
+## Edital para cadastro de reserva de discentes no Escritório de Soluções Criativas (ESC)
+
+[Edital](https://github.com/nitunitins/esc/edital0012019.pdf)
+
 You can use the [editor on GitHub](https://github.com/nitunitins/nitpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
