@@ -7,3 +7,5 @@
 [Edital - Retificação 001](https://nitunitins.github.io/nit/edital0012019_retificacao001.pdf)
 
 [Edital - Retificação 002](https://nitunitins.github.io/nit/edital0012019_retificacao002.pdf)
+
+[Inscrições Homologadas](https://nitunitins.github.io/nit/edital0012019_inscricoeshomologadas.pdf)
