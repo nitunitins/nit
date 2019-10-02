@@ -9,3 +9,5 @@
 [Edital - Retificação 002](https://nitunitins.github.io/nit/edital0012019_retificacao002.pdf)
 
 [Inscrições Homologadas](https://nitunitins.github.io/nit/edital0012019_inscricoeshomologadas.pdf)
+
+[Resultado Preliminar - 1ª Etapa - Análise Documental](https://nitunitins.github.io/nit/edital0012019_resultadopreliminar1etapa.pdf)
