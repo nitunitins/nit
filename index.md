@@ -11,3 +11,5 @@
 [Inscrições Homologadas](https://nitunitins.github.io/nit/edital0012019_inscricoeshomologadas.pdf)
 
 [Resultado Preliminar - 1ª Etapa - Análise Documental](https://nitunitins.github.io/nit/edital0012019_1etapa.pdf)
+
+[Resultado Preliminar - 1ª Etapa - Análise Documental] - Respostas aos Recursos(https://nitunitins.github.io/nit/edital0012019_resprec_1etapa.pdf)
