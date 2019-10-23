@@ -19,3 +19,5 @@
 [Resultado Preliminar - 2ª Etapa - Entrevista](https://nitunitins.github.io/nit/edital0012019_2etapa.pdf)
 
 [Resultado Final](https://nitunitins.github.io/nit/edital0012019_resultadofinal.pdf)
+
+[Convocação](https://nitunitins.github.io/nit/edital0012019_convocacao.pdf)
